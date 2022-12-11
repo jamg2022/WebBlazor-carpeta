@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Web_Blazor
+build_property.RootNamespace = Web_Blazor
+build_property.ProjectDir = c:\Users\esoja\Desktop\Web_Blazor\WebBlazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\esoja\Desktop\Web_Blazor\WebBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Pages/Image/Image.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1hZ2VcSW1hZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Pages/ToDo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9Eby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Shared/TitleModule.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRpdGxlTW9kdWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-myg1s8qe8m
+
+[c:/Users/esoja/Desktop/Web_Blazor/WebBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wplxmuxof2

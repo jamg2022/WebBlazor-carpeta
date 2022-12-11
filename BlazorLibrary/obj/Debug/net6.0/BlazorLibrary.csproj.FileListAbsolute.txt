@@ -1,0 +1,36 @@
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\bin\Debug\net6.0\BlazorLibrary.staticwebassets.runtime.json
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\bin\Debug\net6.0\BlazorLibrary.deps.json
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\bin\Debug\net6.0\BlazorLibrary.dll
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\bin\Debug\net6.0\BlazorLibrary.pdb
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.csproj.AssemblyReference.cache
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.AssemblyInfoInputs.cache
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.AssemblyInfo.cs
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\scopedcss\bundle\BlazorLibrary.styles.css
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\scopedcss\projectbundle\BlazorLibrary.bundle.scp.css
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.dll
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\refint\BlazorLibrary.dll
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.pdb
+C:\Users\esoja\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\ref\BlazorLibrary.dll
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\bin\Debug\net6.0\BlazorLibrary.staticwebassets.runtime.json
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\bin\Debug\net6.0\BlazorLibrary.deps.json
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\bin\Debug\net6.0\BlazorLibrary.dll
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\bin\Debug\net6.0\BlazorLibrary.pdb
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.csproj.AssemblyReference.cache
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.AssemblyInfoInputs.cache
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.AssemblyInfo.cs
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\scopedcss\bundle\BlazorLibrary.styles.css
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\scopedcss\projectbundle\BlazorLibrary.bundle.scp.css
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.dll
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\refint\BlazorLibrary.dll
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\BlazorLibrary.pdb
+C:\Users\Jehova Shalom\Desktop\Web_Blazor\BlazorLibrary\obj\Debug\net6.0\ref\BlazorLibrary.dll
